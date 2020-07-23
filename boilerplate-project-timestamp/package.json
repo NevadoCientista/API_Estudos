@@ -17,6 +17,10 @@
 		"type": "git",
 		"url": "https://githost.com/camper/repo.git"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/NevadoCientista/API_Estudos"
+	},
 	"keywords": [
 		"node",
 		"hyperdev",
